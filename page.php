@@ -1,4 +1,4 @@
-<?php // Template name: WIP ?>
+<?php // Template name: Page ?>
 <?php get_header(); ?>
     <main id="main" class="" style="padding: 2rem 0;">
         <div class="container" style="">

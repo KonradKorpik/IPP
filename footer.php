@@ -1,4 +1,4 @@
-<footer id="footer" class="" style="padding: 2rem 0; background-color: #333333;">
+<footer id="footer" class="" style="padding: 4rem 0; background-color: #333333;">
 	<div class="container" style="">
 		<div class="row" style="">
 			<div class="col-12" style="padding: 0 0 2rem 0;">
@@ -14,7 +14,7 @@
 						</p>
 						<a class="" style="text-decoration: none;" href="tel:+48660677804">
 							<p class="" style="margin: 0; color: #ffffff;">
-								+48 669 677 804
+								+48 668 677 804
 							</p>
 						</a>
 					</div>
